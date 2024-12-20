@@ -2,3 +2,5 @@ For Data preprocessing, I employed my scraper to grab the specific street music 
 each folders contains samples from all ten categories), so creating this scraper was necessary in order to expedite things.
 
 The actual preprocessor file follows a guide I found on Medium.com, but I adapted it for tensorflow rather than PyCharm. Interestingly, the Medium article utilized the same dataset but for a classification problem rather than a generative one. 
+
+Attached some spectrograms (these are the real sepctrograms) produced from the data preprocessing phase. 
